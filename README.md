@@ -1,4 +1,4 @@
-# Removing Duplicates from Linked List in Python
+# Remove Duplicates from Linked List in Python
 
 [ ![Removing Duplicates from Linked List in Python](./image.png)](https://youtu.be/LZ4uSiVrRDc)
 
